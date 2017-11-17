@@ -7,7 +7,7 @@ class Repository
     private $owner;
     private $name;
     private $public;
-    private $branches;
+    //private $branches;
 
     const PublicVisibility = 'public';
 
